@@ -1,0 +1,26 @@
+{
+  "name": "wrapped-ether",
+  "version": "1.0.0",
+  "description": "Smart contract for wrapped ether",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiran017/wrapped-ether.git"
+  },
+  "keywords": [],
+  "author": "skiran017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiran017/wrapped-ether/issues"
+  },
+  "homepage": "https://github.com/skiran017/wrapped-ether#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
